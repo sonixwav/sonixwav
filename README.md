@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with **UI/GUI, Design, Web design**
 
-- 👨‍💻 All of my projects are available at <a>soon</a>
+- 👨‍💻 All of my projects are available at <a>(soon)</a>
 
 - 📫 How to reach me **sonixprocontact@gmail.com**
 
-- 📄 Know about my experiences <a>soon portfolio</a>
+- 📄 Know about my experiences <a>(soon portfolio)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
