@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **UI/GUI, Design, Web design**
 
-- 👨‍💻 All of my projects are available at [](soon)
+- 👨‍💻 All of my projects are available at <a>soon</a>
 
 - 📫 How to reach me **sonixprocontact@gmail.com**
 
