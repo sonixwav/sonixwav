@@ -29,7 +29,7 @@
 <h1 align="left">Hi 👋, I'm SoNix</h1>
 
 ###
-
+<br><br>
 <h4 align="left">Passionate of Cumputer Science and Studying Programing</h4>
 
 ###
