@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a web site for Music Production to help new artists<br><br>👯 I’m currently learning Java, C#, PHP, JS, SASS, SQL<br><br>🤝 I’m looking for help with UI/GUI, Design, Web design<br><br>👨‍💻 All of my projects are available at (soon)<br><br>📫 How to reach me sonixprocontact@gmail.com<br><br>📄 Know about my experiences (soon portfolio)
+🔭 I’m currently working on a web site for Music Production to help new artists<br><br>👯 I’m currently learning Java, C#, PHP, JS, SASS, SQL<br><br>🤝 I’m looking for help with UI/GUI, Design, Web design<br><br>👨‍💻 All of my projects are available at [(soon)](https://sonixbeats.github.io/portfolio/)<br><br>📫 How to reach me sonixprocontact@gmail.com<br><br>📄 Know about my experiences (soon portfolio)
 
 
 ## 🌐 Socials:
