@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on a web site for Music Production to help new artists<br><br>👯 I’m currently learning PHP, Three.JS, SASS, MongoDB<br><br>🤝 I’m looking for help with UI/UX  Web design<br><br>👨‍💻 👨‍💻 All of my projects are available at https://sonixbeats.github.io/portfolio/<br><br>📫 How to reach me sonixprocontact@gmail.com</p>
+<p align="center">🔭 I’m currently working on a web site for Music Production to help new artists<br><br>👯 I’m currently learning PHP, Three.JS, SASS, MongoDB<br><br>🤝 I’m looking for help with UI/UX  Web design<br><br>👨‍💻 All of my projects are available at SoNix Beats<br><br>📫 How to reach me sonixprocontact@gmail.com</p>
 
 ###
 
@@ -81,19 +81,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sonixbeats&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonixbeats&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonixbeats&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sonixbeats/sonixbeats/output/snake.svg" alt="Snake animation" />
 
 ###
 
