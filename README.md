@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on a web site for Music Production to help new artists<br><br>👯 I’m currently learning PHP, Three.JS, SASS, MongoDB<br><br>🤝 I’m looking for help with UI/UX  Web design<br><br>👨‍💻 All of my projects are available at SoNix Beats<br><br>📫 How to reach me sonixprocontact@gmail.com</p>
+<p align="center">🔭 I’m currently working on a web site for Music Production to help new artists<br><br>👯 I’m currently learning PHP, Three.JS, SASS, MongoDB<br><br>🤝 I’m looking for help with UI/UX  Web design<br><br>👨‍💻 All of my projects are available at https://sonixbeats.github.io/portfolio/<br><br>📫 How to reach me sonixprocontact@gmail.com</p>
 
 ###
 
