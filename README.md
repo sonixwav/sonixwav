@@ -10,6 +10,6 @@
 
 ###
 
-<h1 align="center">Not opened to work on any project or collaborations</h1>
+<h1 align="center">Not opened to work on any project or collaboration</h1>
 
 ###
